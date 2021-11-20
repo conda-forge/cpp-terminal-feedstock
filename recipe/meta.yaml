@@ -6,8 +6,8 @@ package:
   version: {{ version }}
 
 source:
-  url: https://github.com/certik/terminal/archive/v{{ version }}.tar.gz
-  sha256: 8c712b35c2aae77dc6e749e9ac1167d0617439085342e6944942bf49982654fb
+  url: https://github.com/jupyter-xeus/cpp-terminal/archive/refs/tags/v{{ version }}.tar.gz
+  sha256: 37615b2747acee8237ae065cb219aa244a82da1ea2c795bee36ec1b9bbc546c9
 
 build:
   number: 0
